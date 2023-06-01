@@ -24,7 +24,7 @@ const BlogArea = () => {
                            <span><a href="#"><b className="it-blog-cta">{item.category}</b></a></span>
                            <span><a href="#"> / By <b> {item.category}</b></a> </span>
                         </div>
-                        <h3 className="it-blog__title mb-50"><Link href="/blog-details">{item.title}</Link></h3>
+                        <h3 className="it-blog__title mb-50"><Link href={`/blog/${item.id}`}>{item.title}</Link></h3>
                         <div className="tp-seo-full-btn">
                            <Link href={`/blog/${item.id}`} className="it-portfolio-item__btn"> Read More
                               <span className="mt-5">
