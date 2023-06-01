@@ -2,7 +2,7 @@ import BreadcrumbArea from "@/src/common/breadcrumb-area";
 import Footer from "@/src/layout/footers/footer";
 import Header from "@/src/layout/headers/header";
 import React from "react";
-import BlogDetailsArea from "../blog/[id]";
+import BlogDetailsArea from "@/src/pages/blog/[id]";
 
 const BlogDetails = () => {
   return (
