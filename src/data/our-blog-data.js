@@ -9,7 +9,7 @@ const our_blog_data =[
         month: "Nov",
         category: "Technology",
         post_by: "Admin",
-        title: "Way Technology Has Improve Business Today",
+        title: "Technology gets the headlines, but people and process are equally important",
         post: <>They play a role in making operations more seamless
         bridging the gap between authorities, consumers &
         businesses running good. …</>,
@@ -17,42 +17,56 @@ const our_blog_data =[
         content: (
             <>
               <p>
-                A great commerce experience cannot be distilled to a single number.
-                It’s not a Lighthouse score, or a set of Core Web Vitals figures,
-                although both are important inputs. A great commerce experience is a
-                trilemma that carefully balances competing needs of delivering great
-                customer experience, dynamic storefront capabilities, and long-term
-                business — conversion, retention, re-engagement — objectives. As
-                developers, we rightfully obsess about the customer experience,
-                relentlessly working to squeeze every millisecond out of the critical
-                rendering path, optimize input latency, and eliminate jank. At the
-                limit, statically generated, edge delivered, and HTML-first pages look
-                like the optimal strategy. That is until you are confronted with the
-                realization that the next step function in improving conversion rates
-                and business.
+              Every challenge a CIO takes on involves people, process, and technology. After decades of working in the automotive industry, I can confidently say that if I’d only had to worry about technology, my job would have been much easier. 
+
+A lot of leaders don’t realize that the people and process components that are engrained in technology always add an enormous amount of complexity to every project. And if things start to go sideways, it often comes back to how the work is being done, rather than the technology itself. 
+
+Here are four critical steps technology leaders should take at the onset of every new endeavor:
+
+
               </p>
               <div className="tp-inner-pt-section mb-60 tp-border-bottom">
+                
+                <h4 className="tp-inner-pt-section__title mb-30">
+                1 – Address cultural elements 
+                </h4>
+                <p className="mb-40">
+                Culture can either become a critical enabler or a barrier to success. Before you begin any new initiative, invest time in understanding both the strengths of your culture and the elements that will need to evolve or change to reach your goals.
+
+As an example, maybe you’re planning on introducing a new product or feature, and your team has been extremely successful on past projects, but your new initiative will force people to take on different roles and responsibilities. Rather than assuming everyone is capable and willing to adapt, you need to have a conversation about how past experiences will be valuable. But people will also need to learn new skills. Make it clear that, as a leader, you will help bring people along the journey so they will be successful. 
+
+When leaders fail to help their team members learn and grow, resistance can become a barrier to progress. Leaders need to look in the mirror and ask themselves if they are really helping to prepare and enable their team members to do well, even when it might seem like people don’t want to embrace change.
+                </p>
+                <h4 className="tp-inner-pt-section__title mb-30">
+                2 – Get cross-functional alignment around the vision 
+                </h4>
+                
+                <p className="mb-40">
+                A big mistake technology leaders make is failing to communicate outside their immediate team. When it comes to any major project or change initiative, it’s important to loop people in even if they aren’t directly affected. Doing this early on allows you to get buy-in across the company and gain a variety of different perspectives. In doing so, you’ll often be presented with insights your team wouldn’t have considered on their own, which can help you improve your approach and avoid unforeseen issues down the road. When you share your vision with the larger team on where you’re going and why, you’ll gain cross-functional alignment and people will get excited about the change and be ready to jump in and help. 
+
+
+                </p>
                 <Link href="#" className="w-img">
                   <img src="/assets/img/blog/blog-list-2.jpg" alt="them-pure" />
                 </Link>
                 <h4 className="tp-inner-pt-section__title mb-30">
-                  A cleansing hot shower or bath
+                3 – Ensure agile iteration from today into future
                 </h4>
                 <p className="mb-40">
-                  The journey, often, starts “simple” with localization. But then,
-                  quickly advances to contextual pricing, juggling complexity of large
-                  and frequently updated product catalog, managing continuously
-                  running multivariate tests and promotion campaigns, and serving
-                  customer-tailored dynamic recommendations. Eventually, you reach a
-                  realization that every page is similar to an open Tetris board where
-                  each “slot” can and should be dynamically tailored by dynamic
-                  visitor preferences, all powered by an ever-growing set of dynamic
-                  business rules.
+                Determine the initial areas you need to build out first while creating the foundation for the future. Getting wins on the board helps you gain momentum and more buy-in. But do not be fooled into believing that you know the complete roadmap ahead. The pace of change moves faster every day. The process of iterating through and validating the plan against the strategy is critical. You and your team need to be agile and able to quickly identify what will not work so you can minimize mistakes, take the required course corrections, and most importantly, learn from your experiences. Strong sponsorship and governance with continuous engagement provide additional fuel throughout this process to maintain the necessary momentum required for success.  
+
+                </p>
+                <h4 className="tp-inner-pt-section__title mb-30">
+                4 – Focus on value delivery
+                </h4>
+                <p className="mb-40">
+                You will have an idea of the anticipated value of the output of the various phases, but there’s no way to know with 100 percent certainty that everything will pan out exactly as expected. That’s why it’s so important to continually validate your work, especially in the initial stages. For example, maybe you got feedback in a focus group that your customers would really value a certain enhancement, but when you build it and release the initial version, you learn that they aren’t using it as you expected. This kind of thing happens all the time with software, and it’s easy to keep investing time and money in work that isn’t driving the value that was initially anticipated. Companies need to have a solid process that allows them to quickly realize when they need to pivot. Sometimes that pivot is actually stopping or eliminating an element of the project. Know that it’s okay to scrap something. Looking at the data and continually validating it against the value is key.   
+
                 </p>
               </div>
               <div className="tp-inner-pt-section mb-60 tp-border-bottom">
                 <h4 className="tp-inner-pt-section__title mb-30">
-                  Setting the mood with incense
+                 
                 </h4>
                 <div className="d-lg-flex">
                   <div className="sm-img pr-30">
@@ -63,12 +77,7 @@ const our_blog_data =[
                   </div>
                   <div>
                     <p>
-                      From connecting back-office operations to front-of-the-house A/B
-                      testing and dynamic personalization for each customer, the
-                      shared foundation is fast server-side rendering powered by fast
-                      storefront data access. On top of this foundation, we add layers
-                      of caching, prerendering and edge delivery optimizations — not
-                      the other way around.
+                    Leading a technology team can be both incredibly rewarding and challenging. The leaders who do it best are the ones who recognize people and process as critical success factors in any technology endeavor. When you focus on the human elements of business, the work seems to fall into place.
                     </p>
                   </div>
                 </div>
@@ -79,23 +88,15 @@ const our_blog_data =[
                     <i className="flaticon-quote"></i>
                   </span>
                   <p>
-                    Choices to take a holiday and travelling out in this pandemic
-                    situation are limited. Why not take a stay action on quality.
+                  Every challenge a CIO takes on involves people, process, and technology.
                   </p>
-                  <cite>Rosalina D. William</cite>
-                  <span>founder</span>
+                  <cite>Jeff Lemmer</cite>
+                  <span>Automotive Veteran</span>
+                  <span> of Ford</span>
                 </div>
               </blockquote>
               <p>
-                Surveying the existing landscape of available developer tools and
-                runtimes, we felt that there is a gap. Enabling dynamic commerce
-                requires close integration between server and client, an optimized
-                streaming and data fetch strategy, and a production platform that
-                operates at scale. These are hard technical problems that Shopify can
-                help solve and this is why we’ve been hard at work on the Hydrogen
-                framework. It’s a React-based framework optimized for commerce and
-                specialized to be powered by Shopify APIs and infrastructure: The
-                future of commerce is dynamic and personalized.
+               
               </p>
             </>
           ),
