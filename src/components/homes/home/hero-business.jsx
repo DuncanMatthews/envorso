@@ -41,11 +41,11 @@ const HeroBusiness = () => {
 
                     <TypeAnimation
                           sequence={[
-                            'Business', 
+                            'Connect', 
                             2000,
                             'Transform', 
                             3000,
-                            'Business', 
+                            'Transform', 
                           ]}
                           wrapper="div"
                           cursor={false}
