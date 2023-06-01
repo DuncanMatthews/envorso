@@ -30,3 +30,10 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+src/pages/home-2.jsx
+src/pages/home-3.jsx
+src/pages/home-4.jsx
+src/pages/home-5.jsx
+src/pages/home-6.jsx
+src/pages/home-7.jsx
